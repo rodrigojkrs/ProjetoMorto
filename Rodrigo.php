@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h1>Bem vindo a Puta Que Te Pariu</h1>
+        <h1>Bem vindo ao Site</h1>
         <a href="index.php">Voltar</a>
         <?php
         // put your code here
