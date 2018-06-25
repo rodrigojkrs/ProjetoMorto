@@ -10,8 +10,10 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h1>Bem vindo a Puta Que Te Pariu</h1>
+        <h1>Bem vindo Otario</h1>
         <a href="index.php">Voltar</a>
+        <img src="avatar.jpg" alt="Texto Alternativo" title="Avatar" />
+        <img src="Arquivo inexistente.jpg" alt="Texto Alternativo" title="Outra figura"/>
         <?php
         // put your code here
         ?>
