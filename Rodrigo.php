@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <h1>Bem vindo ao Site</h1>
         <a href="index.php">Voltar</a>
-        <img src="avatar.png" alt="Texto Alternativo" title="Avatar" />
+        <img src="C:\Users\Aluno\Desktop\avatar.png" alt="Texto Alternativo" title="Avatar" />
         <img src="Arquivo inexistente.jpg" alt="Texto Alternativo" title="Outra figura"/>
         <?php
         // put your code here
